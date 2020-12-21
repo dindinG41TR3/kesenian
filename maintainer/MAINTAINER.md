@@ -8,6 +8,7 @@ E-Mail: <dindinhernawan@yahoo.co.id>
  * Leader
  * Maintainer
  * Developer
+ * Root
 
 **Team:**
  * Dokumentasi
